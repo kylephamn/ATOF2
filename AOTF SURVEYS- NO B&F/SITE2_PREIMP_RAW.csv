@@ -1,0 +1,5 @@
+record_id,acceptability_approval,acceptability_appealing,acceptability_like,acceptability_welcome,appropriateness_fitting,appropriateness_suitable,appropriateness_applicable,appropriateness_goodmatch,feasibility_implement,feasibility_possible,feasibility_doable,feasibility_easy,feedback_tirr,preimplementation_survey_complete,
+1,4,4,4,1,1,1,3,1,1,1,1,1,1,1,
+2,4,4,4,2,3,2,2,1,3,3,3,2,2,2,
+3,4,4,4,2,2,2,2,2,3,3,3,2,2,2,
+4,3,5,4,2,2,1,2,1,3,3,3,2,3,2,
